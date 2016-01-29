@@ -1,6 +1,6 @@
 #folder
 target/
-
+data/
 #fixed file
 .class
 .exe
@@ -20,3 +20,4 @@ config.properties
 .idea
 test-output
 rebel.xml
+
