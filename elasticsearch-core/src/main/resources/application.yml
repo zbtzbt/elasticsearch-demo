@@ -2,3 +2,8 @@ spring:
   application.name: elasticsearch-spring-data
 
 server.port : 8080
+
+elasticsearch:
+  host : localhost
+  port : 9300
+  cluster.name : elasticsearch
